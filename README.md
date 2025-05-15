@@ -1,7 +1,5 @@
 # Indoor-Navigation-For-Blind
 
-# Computer Vision-Based Navigation Assistant for the Visually Impaired
-
 ## Project Description
 
 This project aims to develop an assistive technology solution that helps visually impaired individuals navigate indoor environments using computer vision and natural language processing. The system uses a webcam to perceive the surroundings, identify obstacles and room numbers, and provide real-time audio guidance to the user.
