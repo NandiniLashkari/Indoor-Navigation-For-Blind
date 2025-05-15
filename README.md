@@ -89,17 +89,7 @@ This project aims to develop an assistive technology solution that helps visuall
 
 Contributions are welcome! If you have any ideas for improvements or find any bugs, please feel free to open an issue or submit a pull request.
 
-## License
 
-[Specify the license under which your project is released (e.g., MIT License)](https://opensource.org/licenses/MIT)
 
-## Acknowledgements
 
-* Ultralytics for the YOLOv5 object detection model.
-* The Tesseract OCR community.
-* The developers of the Python libraries used in this project.
-
-## Project Status
-
-[Describe the current status of the project (e.g., "Under development," "Beta," "Stable").]
 
